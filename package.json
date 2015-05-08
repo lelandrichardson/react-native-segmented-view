@@ -1,0 +1,31 @@
+{
+  "name": "react-native-segmented-view",
+  "version": "1.0.0",
+  "description": "Segmented View for React Native (with animation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lelandrichardson/react-native-segmented-view.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "segmented",
+    "view"
+  ],
+  "author": "Leland Richardson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lelandrichardson/react-native-segmented-view/issues"
+  },
+  "homepage": "https://github.com/lelandrichardson/react-native-segmented-view",
+  "dependencies": {
+    "react-tween-state": "0.0.5"
+  },
+  "peerDependencies": {
+    "react-native": "^0.4.1"
+  }
+}

@@ -25,3 +25,19 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+
+.idea/workspace.xml
+
+.idea/vcs.xml
+
+.idea/scopes/scope_settings.xml
+
+.idea/react-native-segmented-view.iml
+
+.idea/modules.xml
+
+.idea/misc.xml
+
+.idea/encodings.xml
+
+.idea/.name
