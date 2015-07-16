@@ -30,8 +30,7 @@ Segmented View for React Native (with animation)
 - `onTransitionStart`: (function) => called when a transition animation starts
 - `onTransitionEnd`: (function) => called when a transition animation ends
 - `barColor`: (string) => the color of the highlight bar
+- `barPosition`: (string) => the position of the highlight bar.
 - `underlayColor`: (string) => the underlay color of a title block
 - `selectedTitleStyle`: (object) => the style of the selected title block
 - `titleStyle`: (object) => the style of a normal (unselected) title block
-
-
