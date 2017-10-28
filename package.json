@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/lelandrichardson/react-native-segmented-view",
   "dependencies": {
+    "create-react-class": "^15.6.2",
+    "prop-types": "^15.6.0",
     "react-tween-state": "0.1.5"
   },
   "peerDependencies": {
